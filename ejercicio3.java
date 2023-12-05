@@ -45,6 +45,8 @@ public class ejercicio3 {
 			System.out.print("Ingresa la altura del cilindro:");
 			double alturaCilindro = sc.nextDouble();
 			double total=2*Math.PI*radioCilindro*(radioCilindro + alturaCilindro);
+			case 5:
+			System.out.println("Adios, muy buenas");
 			 default:
 				 System.out.println("Opción no válida. Inténtelo de nuevo.");
 		}
