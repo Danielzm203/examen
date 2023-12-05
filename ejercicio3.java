@@ -28,7 +28,7 @@ public class ejercicio3 {
 			 case 2:
 			 System.out.print("Ingrese el radio del círculo: ");
 			 double radioCirculo = sc.nextDouble();
-			 
+			 double total=Math.PI*Math.pow(radioCirculo,2);
 			 break;
 			 case 3:
 			 System.out.print("Ingrese el radio de la base del cono: ");
